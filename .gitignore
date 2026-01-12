@@ -1,0 +1,19 @@
+# Virtual environments
+.venv/
+.env
+
+# IDE
+.idea/
+
+# Cache
+__pycache__/
+.pytest_cache/
+
+# Reports
+output/
+test_results.json
+*.html
+
+# OS
+.DS_Store
+Thumbs.db
